@@ -1,0 +1,24 @@
+{
+  "name": "chatting",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000h\u0000a\u0000t\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhithyan-pradeep/chatting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adhithyan-pradeep/chatting/issues"
+  },
+  "homepage": "https://github.com/adhithyan-pradeep/chatting#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
